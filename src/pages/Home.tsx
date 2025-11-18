@@ -32,7 +32,7 @@ const Home = () => {
       <Header />
       <main className="flex-grow container mx-auto p-4 md:p-8">
         <section className="text-center my-12">
-          <h1 className="text-5xl font-extrabold mb-6 text-primary-foreground" aria-label="Bem-vindo ao E-commerce Acessível">
+          <h1 className="text-5xl font-extrabold mb-6 text-black" aria-label="Bem-vindo ao E-commerce Acessível">
             Bem-vindo ao E-commerce Acessível
           </h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto mb-8">
@@ -58,7 +58,7 @@ const Home = () => {
                     <CardTitle className="text-xl font-semibold">Eletrônicos</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <img src="/placeholder.svg" alt="Ícone de eletrônicos" className="mx-auto h-24 w-24 mb-4" />
+                    <img src="/Ícone de eletrônicos.svg" alt="Ícone de eletrônicos" className="mx-auto h-24 w-24 mb-4" />
                     <CardDescription>Dispositivos para o dia a dia.</CardDescription>
                   </CardContent>
                 </Card>
@@ -69,7 +69,7 @@ const Home = () => {
                     <CardTitle className="text-xl font-semibold">Casa e Cozinha</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <img src="/placeholder.svg" alt="Ícone de casa" className="mx-auto h-24 w-24 mb-4" />
+                    <img src="/Ícone de casa.svg" alt="Ícone de casa" className="mx-auto h-24 w-24 mb-4" />
                     <CardDescription>Conforto e praticidade para seu lar.</CardDescription>
                   </CardContent>
                 </Card>
@@ -80,7 +80,7 @@ const Home = () => {
                     <CardTitle className="text-xl font-semibold">Saúde e Bem-estar</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <img src="/placeholder.svg" alt="Ícone de saúde" className="mx-auto h-24 w-24 mb-4" />
+                    <img src="/Ícone de saúde.svg" alt="Ícone de saúde" className="mx-auto h-24 w-24 mb-4" />
                     <CardDescription>Produtos para seu cuidado pessoal.</CardDescription>
                   </CardContent>
                 </Card>
@@ -91,7 +91,7 @@ const Home = () => {
                     <CardTitle className="text-xl font-semibold">Mobilidade</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <img src="/placeholder.svg" alt="Ícone de mobilidade" className="mx-auto h-24 w-24 mb-4" />
+                    <img src="/Ícone de mobilidade.svg" alt="Ícone de mobilidade" className="mx-auto h-24 w-24 mb-4" />
                     <CardDescription>Soluções para sua independência.</CardDescription>
                   </CardContent>
                 </Card>
