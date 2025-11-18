@@ -19,7 +19,7 @@ let products: Product[] = [
     description: 'Experimente um som imersivo com cancelamento de ruído ativo, ideal para ambientes barulhentos. Conforto e qualidade de áudio superiores.',
     price: 299.90,
     image: '/Fone de Ouvido com Cancelamento de Ruído.jpg',
-    alt: 'Fone de ouvido preto com almofadas grandes',
+    alt: 'Fone de Ouvido com Cancelamento de Ruído',
     reviews: 4.5,
     features: ['Cancelamento de ruído ativo', 'Bateria de longa duração', 'Conexão Bluetooth 5.0'],
     videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
